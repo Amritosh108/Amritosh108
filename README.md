@@ -1,67 +1,176 @@
+<!-- Banner -->
 <h1 align="center">Hi 👋, I'm Amritosh Kumar Pandey</h1>
-<h3 align="center">Java Full Stack Developer | React | Spring Boot | SQL</h3>
+
+<h3 align="center">
+Java Full Stack Developer • Spring Boot • React • Python
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications and continuously learning new technologies.
+</p>
+
+<p align="center">
+  <a href="mailto:amritoshkrpandey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amritoshkrpandey%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/amritoshpandey1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amritosh_Pandey-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://github.com/Amritosh108">
+    <img src="https://img.shields.io/badge/GitHub-Amritosh108-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Tech Graduate (2025)
-- 🌱 Currently learning **Spring Boot, React & DSA**
-- 💻 Passionate about Java Backend Development
-- 🚀 Building Full Stack Projects
+- 💼 Aspiring Java Full Stack Developer
+- 🌱 Currently learning **Spring Boot, React, Microservices & System Design**
+- 💻 Passionate about Backend Development
+- 🚀 Building Full Stack Web Applications
+- 🧩 Strong interest in Problem Solving & Data Structures
+- 🔍 Familiar with REST APIs, JDBC, Authentication & Database Design
+- 🧪 Knowledge of Unit Testing and Integration Testing
 - 📍 Bihar, India
+- ⚡ Always curious to learn new technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+### 💻 Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### ⚙️ Frameworks & Libraries
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,bootstrap" />
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🧰 Tools & Technologies
 
-### 🌐 Portfolio Website
-A responsive personal portfolio built using HTML, CSS and JavaScript.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,idea,linux" />
+</p>
 
-🔗 **Repository:** https://github.com/Amritosh108/Portfolio
+### Additional Skills
+
+- JDBC
+- REST APIs
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+- JSON
+- Maven
+- Responsive Web Design
+- Authentication & Authorization
+- CRUD Operations
+- Unit Testing
+- Integration Testing
+- Debugging
+- Agile Development
+- SDLC
+- API Testing using Postman
 
 ---
 
-## 📈 GitHub Stats
+# 🌟 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amritosh108&show_icons=true&theme=tokyonight)
+## 🌐 Portfolio Website
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amritosh108&layout=compact&theme=tokyonight)
+> Personal portfolio showcasing my skills, projects and achievements.
 
----
-
-## 📫 Connect with Me
-
-- GitHub: https://github.com/Amritosh108
-- LinkedIn: *Add your LinkedIn URL*
-- Email: *Add your email*
+🔗 Repository:
+https://github.com/Amritosh108/Portfolio
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amritosh108&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritosh108&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amritosh108&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- Spring Boot
+- React.js
+- Microservices
+- Docker
+- AWS Basics
+- CI/CD
+- System Design
+
+---
+
+# 📈 Goals for 2026
+
+✅ Master Spring Boot
+
+✅ Build Production-Level Projects
+
+✅ Learn Docker & Kubernetes
+
+✅ Contribute to Open Source
+
+✅ Solve 500+ DSA Problems
+
+✅ Crack a Product-Based Company
+
+---
+
+# 🤝 Connect with Me
+
+📧 **Email:** amritoshkrpandey@gmail.com
+
+📱 **Phone:** +91 8210081901
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/amritoshpandey1/
+
+💻 **GitHub**
+https://github.com/Amritosh108
+
+---
+
+# 💡 Quote
+
+> *"Consistency beats intensity. Every line of code written today builds a stronger developer tomorrow."*
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</p>
